@@ -1,0 +1,8 @@
+1.0.7 - Modified to use JSMin instead of JavaScriptPacker.
+1.0.6 - Modified internal dataflow and streamline operations.
+1.0.5 - Modified internal operations to improve efficiency.
+1.0.4 - A recurring issue has been address and tested. Should be it's final occurence.
+1.0.3 - Corrected an error in the FileSystemHelper which affected the interpretation of paths.
+1.0.2 - Added the ability to specify if a file has already been processed.
+1.0.1 - Corrected cache path error.
+1.0.0 - Initial Release
